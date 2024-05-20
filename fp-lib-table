@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DS1337S")(type "KiCad")(uri "C:/Users/nguye/Downloads/Lib/DS1337S")(options "")(descr ""))
+  (lib (name "ATMEGA328P-AU")(type "KiCad")(uri "C:/Users/nguye/Downloads/Lib/ATMEGA328P-AU")(options "")(descr ""))
+)
